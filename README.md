@@ -16,7 +16,7 @@ Also, feel free to use your own version of alpha-popup.js
 
 # Example
 
-![Alpha Popup Example](https://raw.github.com/paterson/alpha-popupp/master/alpha-popup.png)
+![Alpha Popup Example](https://raw.github.com/paterson/alpha-popup/master/alpha-popup.png)
 
 See you in October! 
 
