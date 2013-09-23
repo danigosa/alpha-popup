@@ -24,9 +24,8 @@
                 return false;
             });
 
-            /** Show message if not dismissed already */
-            if ( !localStorage.getItem('hideAlphaPopup') )
-                this.showMessage();
+            /** Show message */
+            this.showMessage();
 
         },
 
@@ -65,7 +64,6 @@
                     $(this).remove();
                 }});
             }
-            localStorage.setItem('hideAlphaPopup', true);
 
         },
 
