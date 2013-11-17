@@ -19,14 +19,14 @@ Also, feel free to use your own version of footer-popup.js
 Add this variable in head (or the bottom of your body tag) like this:
 
 .. code:: java
- <script>
+ `<script>
     //Custom Options (added to url options)
     $.fpOptions = {
         url: "http://www.infantium.com",
         url_text: "Show Me More",
         message: "This is a customized message!"
     };
- </script>
+ </script>`
 
 # Example
 
