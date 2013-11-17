@@ -13,8 +13,8 @@ Also, feel free to use your own version of footer-popup.js
 1. Ensure you have jQuery loaded.
 2. Add 
  ```html
-  <script type="text/javascript" id="FooterPopup" src="https://s3.amazonaws.com/wsscripts/alpha-popup.js?bgcolor=#034760&color=#fff&position=footer" async="true"></script>
- ``` 
+  <script type="text/javascript" id="FooterPopup" src="static/js/footer-popup.js?bgcolor=#034760&color=#fff&position=footer" async="true"></script>
+ ```
 to the head or footer of your page.
 3. Done!
 
