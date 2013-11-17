@@ -18,7 +18,7 @@ to the head or footer of your page.
 
 # Custom Options
 
-''Add this variable in head (or the bottom of your body tag) like this:''
+Add this variable in head (or the bottom of your body tag) like this:
 
  ```html
  <script>
