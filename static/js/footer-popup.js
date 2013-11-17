@@ -93,7 +93,7 @@
             /** Append message to body */
             this.$message = $('<div id="FooterPopup" class="FooterPopup FooterPopup'+ this.options.position +
                 '" style="display: none;"><div class="container"><a href="#" class="FooterPopupClose"></a><p>'+
-                this.options.message + '&nbsp;<a href="=' + this.options.url + '" target="_blank"> '+ this.options.url_text +' </a>' + ' </p></div></div>').appendTo('body').slideDown({ duration: 400, easing: 'swing' });
+                this.options.message + '&nbsp;<a href="' + this.options.url + '" target="_blank"> '+ this.options.url_text +' </a>' + ' </p></div></div>').appendTo('body').slideDown({ duration: 400, easing: 'swing' });
             // this.$pusher = $('<div id="pusher">&nbsp</div>').prependTo('body').slideDown({ duration: 400, easing: 'swing' });
 
         }
