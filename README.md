@@ -26,7 +26,8 @@ Also, feel free to use your own version of footer-popup.js
         url_text: "Show Me More",
         message: "This is a customized message!"
     };
- </script>```
+ </script>
+ ```
 
 # Example
 
