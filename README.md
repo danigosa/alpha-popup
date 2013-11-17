@@ -11,11 +11,11 @@ Also, feel free to use your own version of alpha-popup.js
 # Set up
 
 1. Ensure you have jQuery loaded.
-2. Add `<script type="text/javascript" id="AlphaPopup" src="https://s3.amazonaws.com/wsscripts/alpha-popup.js?bgcolor=#034760&color=#fff&position=footer" async="true"></script>` to the head or footer of your page.
+2. Add `<script type="text/javascript" id="FooterPopup" src="https://s3.amazonaws.com/wsscripts/alpha-popup.js?bgcolor=#034760&color=#fff&position=footer" async="true"></script>` to the head or footer of your page.
 3. Done!
 
 # Example
 
-![Alpha Popup Example](https://raw.github.com/paterson/alpha-popup/master/alpha-popup.png)
+![Alpha Popup Example](https://infantiumdev.blob.core.windows.net/static/footer-popup.png)
 
 
