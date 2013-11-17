@@ -16,9 +16,8 @@ Also, feel free to use your own version of footer-popup.js
 
 # Custom Options
 
-Add this variable in head (or the bottom of your body tag) like this:
+''Add this variable in head (or the bottom of your body tag) like this:''
 
-.. code:: java
  `<script>
     //Custom Options (added to url options)
     $.fpOptions = {
