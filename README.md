@@ -5,7 +5,7 @@ Footer Popup is a simple open source banner for your website to show off your qu
 
 With one line of code you can quickly and easily add it to your site. If you're interested, you can easily customize the details by changing the url.
 
-Also, feel free to use your own version of alpha-popup.js
+Also, feel free to use your own version of footer-popup.js
 
 
 # Set up
@@ -16,6 +16,6 @@ Also, feel free to use your own version of alpha-popup.js
 
 # Example
 
-![Alpha Popup Example](https://infantiumdev.blob.core.windows.net/static/footer-popup.png)
+![Footer Popup Example](https://infantiumdev.blob.core.windows.net/static/footer-popup.png)
 
 
