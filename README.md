@@ -1,7 +1,7 @@
-AlphaPopup
+FooterPopup
 ==========
 
-Alpha Popup is a simple open source banner for your website to show off your qualification for the Alpha Selection.
+Footer Popup is a simple open source banner for your website to show off your qualification for the Alpha Selection.
 
 With one line of code you can quickly and easily add it to your site. If you're interested, you can easily customize the details by changing the url.
 
@@ -18,7 +18,4 @@ Also, feel free to use your own version of alpha-popup.js
 
 ![Alpha Popup Example](https://raw.github.com/paterson/alpha-popup/master/alpha-popup.png)
 
-See you in October! 
-
-P.S One for PITCH and START coming soon!
 
