@@ -84,7 +84,7 @@
                     '.FooterPopuphead { top: 0; } .FooterPopupfooter { bottom: 10px; } .FooterPopup ' +
                     '.container {text-align: left;padding: 10px} ' +
                     '.FooterPopup p {position: relative; padding: 0; margin: 0 0 0 40px; font-family: ' + this.options.fontFamily + ' } ' +
-                    '.FooterPopup a {color: '+ this.options.color +' ; text-decoration: underline; font-weight: bold } ' +
+                    '.FooterPopup a, p a {color: '+ this.options.color +' ; text-decoration: underline; font-weight: bold } ' +
                     '.FooterPopupClose { background: url("https://s3.amazonaws.com/wsscripts/close.png") no-repeat top center;' +
                     ' background-size: 30px;opacity:0.4;float: left; width: 30px;height: 40px } ' +
                     '.FooterPopupClose:hover {opacity: 1} @media screen and (max-width: 1000px) { .FooterPopup ' +
